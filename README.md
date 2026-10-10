@@ -40,7 +40,7 @@ Developed as part of the Labmentix Cybersecurity Internship, this project demons
 
 **Key learning:** Python modular development, classical cryptography, statistical analysis, GUI integration, debugging, and the limitations of automated cryptanalysis.
 
-📂 Repository: *Add project repository link when published.*
+📂 Repository: https://github.com/pranavkundap2004-stack/classical-cipher-security-analyzer
 
 ---
 
