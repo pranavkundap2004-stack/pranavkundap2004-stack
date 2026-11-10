@@ -68,7 +68,7 @@ Developed a SIEM-style security monitoring system as part of the Labmentix Cyber
 
 **Key learning:** SIEM architecture, log analysis, detection logic, alert correlation, risk prioritization, centralized monitoring, and security automation.
 
-📂 Repository: *[Add project repository link when published.*](https://github.com/pranavkundap2004-stack/SIEM-Security-Monitoring)
+📂 Repository: (https://github.com/pranavkundap2004-stack/SIEM-Security-Monitoring)
 
 ---
 
